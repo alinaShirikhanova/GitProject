@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Учимся пользоваться гитом в среде разработки");
+        System.out.println("Учимся отслеживать коммиты на гитхаб");
     }
 }
